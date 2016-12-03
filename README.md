@@ -6,7 +6,7 @@
 
 ## 第二次尝试
 
-我是Klaek，博客：[klaek.github.io ][2]
+我是Klaek，博客：[klaek.github.io][2]
 
 
 [1]:	http://azeril.me/
