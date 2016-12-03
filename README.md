@@ -10,4 +10,4 @@
 
 
 [1]:	http://azeril.me/
-[2]:	klaek.github.io
+[2]:	https://klaek.github.io
